@@ -1,0 +1,21 @@
+##TODO Finish verizon configurations
+set my_vuser = NealTNJ@verizon.net
+
+## Receive options.
+set pop_user=$my_vuser
+set pop_pass=$my_vpass
+set pop_host = pops://pop.verizon.net:995
+set ssl_force_tls = yes
+
+## Send options.
+set smtp_url=smtps://$my_vuser@smtp.verizon.net
+set realname='Neal Trischitta'
+set from=$my_vuser
+set hostname="verizon.net"
+set signature=~/.mutt/sigs/verizon.sigs
+# Connection options
+#set ssl_force_tls = yes
+#unset ssl_starttls
+
+## Hook -- IMPORTANT!
+account-hook $folder "set pop_user=$my_vuser pop_pass=$my_vpass"
