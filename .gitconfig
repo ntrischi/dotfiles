@@ -1,0 +1,7 @@
+[user]
+	name = Neal Trischitta
+	email = ntrischi@stevens.edu
+[push]
+	default = simple
+[core]
+	editor = vim

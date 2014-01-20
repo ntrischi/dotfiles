@@ -1,0 +1,56 @@
+Xft.dpi:        100
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+Xft.lcdfilter:  lcddefault
+Xft.autohint:   true
+
+urxvt*scrollBar: false
+urxvt*saveLines: 3200
+urxvt*geometry: 100x26
+
+urxvt.underlineColor: yellow
+
+urxvt.cursorBlink: true
+urxvt.cursorColor: #BBBBBB
+
+URxvt*font: xft:terminus:pixelsize=13.2
+URxvt*boldFont: xft:terminus:bold:pixelsize=13.2
+
+urxvt*internalBorder: 4
+urxvt*keysym.0xFF50:    \033[1~
+urxvt*keysym.0xFF57:    \033[4~
+urxvt*borderLess: false
+
+urxvt.transparent: false
+urxvt.shading: 25
+urxvt.fading: 25
+
+urxvt*foreground:     #BBBBBB
+urxvt*background:     #121212
+!black
+urxvt*color0:         #353535
+urxvt*color8:         #666666
+!red
+urxvt*color1:         #AE4747
+urxvt*color9:         #EE6363
+!green
+urxvt*color2:         rgb:86/af/80
+urxvt*color10:        rgb:87/bc/87
+!brown/yellow
+urxvt*color3:         #DAA520
+urxvt*color11:        #FFC125
+!blue
+urxvt*color4:         #6F99B4
+urxvt*color12:        #7C96B0
+!magenta
+urxvt*color5:         #8B7B8B
+urxvt*color13:        #D8BFD8
+!cyan
+urxvt*color6:         #A7A15E
+urxvt*color14:        #F0E68C
+!white
+urxvt*color7:         #DDDDDD
+urxvt*color15:        #FFFFFF
+
