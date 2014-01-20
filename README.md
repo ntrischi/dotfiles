@@ -1,4 +1,0 @@
-dotfiles
-========
-
-Configurations for Arch.
