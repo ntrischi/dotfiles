@@ -54,3 +54,8 @@ urxvt*color14:        #F0E68C
 urxvt*color7:         #DDDDDD
 urxvt*color15:        #FFFFFF
 
+!mouse-enabled links
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/firefox
+URxvt.matcher.button: 1
+

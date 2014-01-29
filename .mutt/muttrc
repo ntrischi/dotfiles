@@ -2,13 +2,16 @@
 # 2013-10-18
 
 set header_cache = "~/.cache/mutt"
+#set alias_file=~/.mail_aliases     # alises file
 set imap_check_subscribed
 set imap_keepalive = 300
 unset imap_passive
-set mail_check = 30
+set mail_check=5
 set mbox_type=Maildir
 set sort=threads
 set sig_on_top = yes
+set visual=vim
+set pager_stop
 
 # Hide some stuff
 set user_agent=no
@@ -32,12 +35,11 @@ folder-hook ntrischi@stevens.edu 'source ~/.mutt/accounts/stevens.account'
 macro index,pager <f2> '<sync-mailbox><enter-command>source ~/.mutt/accounts/stevens.account<enter><change-folder>!<enter>'
 macro index,pager <f3> '<sync-mailbox><enter-command>source ~/.mutt/accounts/verizon.account<enter><change-folder>!<enter>'
 
-# Random settings
+# Editor settings
 set editor='vim + -c "set textwidth=72" -c "set wrap" -c "set nocp" -c "setlocal spell" -c "?^$"'
 
 # Mail-check preferences
 set timeout=30    #Check for mail every minute
-set mail_check=5
 #hdr_order Date: From: Subject:
 
 # For HTML emails
