@@ -1,0 +1,102 @@
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 15 09:38 : output: Failed to open mixer for 'SoundCard'
+May 15 09:39 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 15 09:40 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 15 09:47 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 15 09:47 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 15 12:29 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 15 12:29 : alsa_mixer: Failed to read mixer for 'SoundCard': failed to attach to software: No such file or directory
+May 15 12:29 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:29 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:29 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:30 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:30 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:30 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:30 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:30 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:30 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:31 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:31 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:31 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:31 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:31 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:31 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:32 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:32 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:32 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:32 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:32 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "hw:0,0": Device or resource busy
+May 15 12:32 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 15 12:32 : output: Failed to open mixer for 'SoundCard'
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 15 12:35 : output: Failed to open mixer for 'SoundCard'
+May 15 12:35 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 16 13:54 : output: Failed to open mixer for 'SoundCard'
+May 16 13:56 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 16 14:38 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 17 08:35 : output: Failed to open mixer for 'SoundCard'
+May 17 08:40 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 17 08:58 : alsa_mixer: Failed to read mixer for 'SoundCard': failed to attach to software: No such file or directory
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:58 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:58 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:59 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:59 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:59 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:59 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:59 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 08:59 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 09:00 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 09:00 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 09:00 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 09:00 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+ALSA lib dlmisc.c:252:(snd1_dlobj_cache_get) Cannot open shared library /usr/lib/alsa-lib/libasound_module_pcm_equal.so
+May 17 09:00 : alsa_output: Failed to open "SoundCard" [alsa]: Failed to open ALSA device "default": No such device or address
+May 17 09:00 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 17 09:00 : output: Failed to open mixer for 'SoundCard'
+May 17 09:01 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 17 09:07 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 17 09:13 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 17 09:20 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 17 09:26 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 17 10:04 : alsa_mixer: Failed to read mixer for 'SoundCard': failed to attach to software: No such file or directory
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 17 10:04 : output: Failed to open mixer for 'SoundCard'
+May 17 10:07 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 17 10:07 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 17 10:07 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 18 11:33 : output: Failed to open mixer for 'SoundCard'
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 19 10:26 : output: Failed to open mixer for 'SoundCard'
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 19 10:26 : output: Failed to open mixer for 'SoundCard'
+May 19 10:30 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 19 10:36 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 19 10:43 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 19 10:49 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL software
+May 19 17:58 : output: Failed to open mixer for 'SoundCard'
+May 19 19:47 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 19 19:53 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 19 19:59 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 19 20:00 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"
+May 19 20:00 : player: played "M.Shinoda/Castle of Glass (M. Shinoda Remix) .mp3"

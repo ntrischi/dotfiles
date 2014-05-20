@@ -2,12 +2,10 @@
 " Author: Neal Trischitta 			 "
 " ntrischi@stevens.edu 				 "	
 "						 "
-" Version: 0.1 Sat 06 Jul 2013 10:55:59 AM EDT   "
+" Version: 0.3  Thu May  8 16:21:43 EDT 2014     "
 "						 "
 " 						 "	
 """"""""""""""""""""""""""""""""""""""""""""""""""
-
-
 
 """""""""""
 " General "
@@ -62,9 +60,11 @@ set ffs=unix,dos,mac
 """"""""""""""""""""""""""""""""
 " Text, Tabs and Indent related"
 """"""""""""""""""""""""""""""""
-
-"Smarttabs"
-set smarttab
+"Tabing and Spacing"
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set sw=4
 
 "Linebreaks on 800 characters"
 set lbr
@@ -90,7 +90,6 @@ map <Down> <Nop>
 set laststatus=2
 
 " Format the status line"
-set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l
 
 """""""""""""""""""""""""""""""""""""""""""
 " Moving around, tabs, windows and buffers"
@@ -99,23 +98,22 @@ set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ 
 map <leader>tn :tabnew<cr>
 map <leader>to :tabonly<cr>
 map <leader>tc :tabclose<cr>
-map <leader>tm :tabmove
+map <leader>tm :tabmove<cr>
 
 " Opens a new tab with the current buffer's path"
 " Super useful when editing files in the same directory"
 map <leader>te :tabedit <c-r>=expand("%:p:h")<cr>/
-
-"""""""""""""""""
-" Spell Checking"
-"""""""""""""""""
-" Pressing ,ss will toggle and untoggle spell checking"
-map <leader>ss :setlocal spell!<cr>
 
 " Shortcuts using <leader>"
 map <leader>sn ]s
 map <leader>sp [s
 map <leader>sa zg
 map <leader>s? z=
+
+"""""""""""""""
+" Auto Saving "
+"""""""""""""""
+au FocusLost * silent! wa
 
 """"""""""""""""""""""
 " Timeout INSERT MODE"
@@ -124,20 +122,11 @@ au CursorHoldI * stopinsert
 set ut=4000
 
 """""""""""""""""
-" External Paste"
+" Toggle Paste"
 """""""""""""""""
-" Toggle paste mode on and off"
-map <leader>pp :setlocal paste!<cr>
+map <F4> :set invpaste<CR>
 
 """""""""""""""""""
-" Helper Functions"
+" Toggle Spelling "
 """""""""""""""""""
-" Returns true if paste mode is enabled"
-function! HasPaste()
-    if &paste
-        return 'PASTE MODE '
-        en
-        return ''
-endfunction
-
-
+map <F5> :setlocal spell! spelllang=en_us<CR>

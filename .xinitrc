@@ -20,7 +20,7 @@ fi
 feh --bg-scale ~/Pictures/pcb.jpg
 
 # Autolock 
-xautolock -time 3 -locker slock -corners ----&
+xautolock -time 12 -locker slock -corners ----&
 
 # Start window manager
 exec /usr/bin/i3

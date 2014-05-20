@@ -59,3 +59,5 @@ URxvt.perl-ext-common: default,matcher
 URxvt.url-launcher: /usr/bin/firefox
 URxvt.matcher.button: 1
 
+!copy/paste
+URxvt.perl-ext-common: default,clipboard

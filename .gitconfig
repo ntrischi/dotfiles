@@ -1,7 +1,12 @@
 [user]
-	name = Neal
+	name = ntrischi
 	email = ntrischi@stevens.edu
 [push]
 	default = simple
 [core]
 	editor = vim
+[color]
+	ui = true
+	status = true
+	interactive = true
+	diff = true

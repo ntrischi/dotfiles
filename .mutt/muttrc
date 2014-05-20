@@ -2,7 +2,9 @@
 # 2013-10-18
 
 set header_cache = "~/.cache/mutt"
-#set alias_file=~/.mail_aliases     # alises file
+set alias_file="~/.mutt/.alias"
+set sort_alias= alias
+source $alias_file
 set imap_check_subscribed
 set imap_keepalive = 300
 unset imap_passive
@@ -12,13 +14,14 @@ set sort=threads
 set sig_on_top = yes
 set visual=vim
 set pager_stop
+set quit=ask-no
 
 # Hide some stuff
 set user_agent=no
 
 ## Passwords
 set my_spass=`pass st_pass`
-set my_vpass=`pass v_pass`
+##set my_vpass=`pass v_pass`
 
 ## Accounts
 
@@ -32,8 +35,11 @@ folder-hook ntrischi@stevens.edu 'source ~/.mutt/accounts/stevens.account'
 
 
 ## Shortcuts
-macro index,pager <f2> '<sync-mailbox><enter-command>source ~/.mutt/accounts/stevens.account<enter><change-folder>!<enter>'
-macro index,pager <f3> '<sync-mailbox><enter-command>source ~/.mutt/accounts/verizon.account<enter><change-folder>!<enter>'
+#macro index,pager <f2> '<sync-mailbox><enter-command>source ~/.mutt/accounts/stevens.account<enter><change-folder>!<enter>'
+#macro index,pager <f3> '<sync-mailbox><enter-command>source ~/.mutt/accounts/verizon.account<enter><change-folder>!<enter>' 
+
+# Urlview Shortcut
+macro pager \cb 'urlview' 'Follow links with urlview'
 
 # Editor settings
 set editor='vim + -c "set textwidth=72" -c "set wrap" -c "set nocp" -c "setlocal spell" -c "?^$"'
@@ -51,6 +57,8 @@ alternative_order text/plain text/html
 set mime_forward=yes
 set mime_forward_rest=yes
 
+#bind check mail
+bind index "C" imap-fetch-mail
 # Color Schema
 source `case $TERM in\
 		(xterm-256color|xterm|rxvt|rxvt-unicode) 	echo '~/.mutt/mutt_color_256'; break;;\

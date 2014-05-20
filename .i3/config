@@ -91,14 +91,13 @@ bindsym XF86AudioRaiseVolume exec amixer -q set Master 2dB+ unmute
 bindsym XF86AudioLowerVolume exec amixer -q set Master 2dB- unmute
 bindsym XF86AudioMute exec amixer -q set Master toggle
 
-
 # switch to workspace
 bindsym $mod+1 workspace terms
 bindsym $mod+2 workspace www
 bindsym $mod+3 workspace code
 bindsym $mod+4 workspace docs
 bindsym $mod+5 workspace music
-bindsym $mod+6 workspace misc
+bindsym $mod+6 workspace mail 
 bindsym $mod+7 workspace tmp7
 bindsym $mod+8 workspace tmp8
 bindsym $mod+9 workspace tmp9
@@ -110,14 +109,21 @@ bindsym $mod+Shift+2 move container to workspace www
 bindsym $mod+Shift+3 move container to workspace code
 bindsym $mod+Shift+4 move container to workspace docs
 bindsym $mod+Shift+5 move container to workspace music
-bindsym $mod+Shift+6 move container to workspace misc
+bindsym $mod+Shift+6 move container to workspace mail
 bindsym $mod+Shift+7 move container to workspace tmp7
 bindsym $mod+Shift+8 move container to workspace tmp8
 bindsym $mod+Shift+9 move container to workspace tmp9
 bindsym $mod+Shift+0 move container to workspace tmp10
 
+#Organize Workspaces
+assign [class="^Firefox$"] www
+for_window [class="^Firefox$"] focus
+
+assign [class="^MuPDF$"] docs
+for_window [class="^MuPDF$"] focus
+
 # Lock user.
-bindsym %mod+o exec slock
+bindsym $mod+o exec slock -b
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -159,5 +165,5 @@ bar {
 }
 
 #Loading Workspace.
-#exec --no-startup-id i3-msg 'workspace terms; exec /usr/bin/urxvt' ' floating enable'
-exec --no-startup-id urxvt floating enable
+exec --no-startup-id i3-msg 'exec urxvt' 
+for_window [class="^urxvt$"] floating enable

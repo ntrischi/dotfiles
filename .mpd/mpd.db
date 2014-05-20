@@ -1,0 +1,36 @@
+info_begin
+format: 1
+mpd_version: 0.18.9
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: M.Shinoda
+mtime: 1394671277
+begin: M.Shinoda
+song_begin: Castle of Glass (M. Shinoda Remix) .mp3
+Time: 380
+Artist: Linkin Park
+Title: Castle of Glass (M. Shinoda Remix)
+Album: Recharged
+Track: 02
+Date: 2013
+Genre: Dance
+mtime: 1394659621
+song_end
+end: M.Shinoda
