@@ -1,4 +1,3 @@
-resume
+Arch Linux Configurations
 ======
 
-2014 resume
