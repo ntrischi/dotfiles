@@ -21,6 +21,7 @@ set user_agent=no
 
 ## Passwords
 ##set my_spass=`pass st_pass`
+set my_spass="n~2/3~qx*"
 ##set my_vpass=`pass v_pass`
 
 ## Accounts

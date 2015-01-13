@@ -1,0 +1,181 @@
+punk/melodic hardcore band from Chicago, Illinois. Formed in 1999, and originally performing under the name Transistor Revolt, they released a self-produced demo entitled Transistor Revolt in 2000, a year before signing with Fat Wreck Chords to release their first two albums, The Unraveling in 2001, and Revolutions Per Minute in 2003. They later switched to Dreamworks Records and recorded their album Siren Song of the Counter Culture.
+
+        Read more about Rise Against on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Tim McIlrath (http://www.last.fm/music/Sum+41)
+ * Joe Principe (http://www.last.fm/music/Billy+Talent)
+ * Brandon Barnes (http://www.last.fm/music/Breaking+Benjamin)
+ * Mr.Precision (http://www.last.fm/music/Anti-Flag)
+ * Todd Mohney (http://www.last.fm/music/The+Offspring)
+ * Chris Chasse (http://www.last.fm/tag/punk%20rock)
+ * Zach Blair (http://www.last.fm/tag/punk)
+ * Sum 41 (http://www.last.fm/tag/melodic%20hardcore)
+ * Billy Talent (http://www.last.fm/tag/hardcore)
+ * Breaking Benjamin (http://www.last.fm/tag/rock)
+ * Anti-Flag (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Rise Against</name>
+          <mbid>606bf117-494f-4864-891f-09d63ff6aa4b</mbid>
+            <bandmembers>
+                    <member>
+                <name>Tim McIlrath</name>
+                                    <yearfrom>1999</yearfrom>
+                                            </member>
+                    <member>
+                <name>Joe Principe</name>
+                                    <yearfrom>1999</yearfrom>
+                                            </member>
+                    <member>
+                <name>Brandon Barnes</name>
+                                    <yearfrom>1999</yearfrom>
+                                            </member>
+                    <member>
+                <name>Mr.Precision</name>
+                                    <yearfrom>1999</yearfrom>
+                                                    <yearto>2001</yearto>
+                            </member>
+                    <member>
+                <name>Todd Mohney</name>
+                                    <yearfrom>2001</yearfrom>
+                                                    <yearto>2001</yearto>
+                            </member>
+                    <member>
+                <name>Chris Chasse</name>
+                                    <yearfrom>2001</yearfrom>
+                                                    <yearto>2006</yearto>
+                            </member>
+                    <member>
+                <name>Zach Blair</name>
+                                    <yearfrom>2006</yearfrom>
+                                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Rise+Against</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/45406029.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/45406029.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/45406029.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/45406029.jpg</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/45406029/Rise+Against+Evan_Hunt_Photo_RiseAgain_300R.jpg</image>
+  <streamable>0</streamable>
+  <ontour>1</ontour>
+  <stats>
+    <listeners>1801574</listeners>
+    <playcount>122725659</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>Sum 41</name>
+	  <url>http://www.last.fm/music/Sum+41</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/2687648.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/2687648.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/2687648.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2687648.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/2687648/Sum+41+l_b137a8c279dec504e2a152fc0bda.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Billy Talent</name>
+	  <url>http://www.last.fm/music/Billy+Talent</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/12783503.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/12783503.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/12783503.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/12783503.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/12783503/Billy+Talent+billytalent.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Breaking Benjamin</name>
+	  <url>http://www.last.fm/music/Breaking+Benjamin</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/35780897.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/35780897.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/35780897.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/35780897.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/35780897/Breaking+Benjamin+PNG.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Anti-Flag</name>
+	  <url>http://www.last.fm/music/Anti-Flag</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/16212837.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/16212837.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/16212837.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/16212837.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/16212837/AntiFlag+oo.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>The Offspring</name>
+	  <url>http://www.last.fm/music/The+Offspring</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/319822.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/319822.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/319822.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/319822.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/319822/The+Offspring.jpg</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>punk rock</name>
+	  <url>http://www.last.fm/tag/punk%20rock</url>
+	</tag>
+        <tag>
+	  <name>punk</name>
+	  <url>http://www.last.fm/tag/punk</url>
+	</tag>
+        <tag>
+	  <name>melodic hardcore</name>
+	  <url>http://www.last.fm/tag/melodic%20hardcore</url>
+	</tag>
+        <tag>
+	  <name>hardcore</name>
+	  <url>http://www.last.fm/tag/hardcore</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Rise+Against/+wiki" />
+    </links>
+                                    <published>Thu, 1 May 2014 20:09:30 +0000</published>
+    <summary>
+        <![CDATA[        Rise Against are a <a href="http://www.last.fm/tag/punk" class="bbcode_tag" rel="tag">punk</a>/<a href="http://www.last.fm/tag/melodic%20hardcore" class="bbcode_tag" rel="tag">melodic hardcore</a> band from Chicago, Illinois. Formed in 1999, and originally performing under the name Transistor Revolt, they released a self-produced demo entitled Transistor Revolt in 2000, a year before signing with <a href="http://www.last.fm/label/Fat+Wreck+Chords" class="bbcode_label">Fat Wreck Chords</a> to release their first two albums, The Unraveling in 2001, and Revolutions Per Minute in 2003. They later switched to Dreamworks Records and recorded their album Siren Song of the Counter Culture.
+
+        <a href="http://www.last.fm/music/Rise+Against">Read more about Rise Against on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        Rise Against are a <a href="http://www.last.fm/tag/punk" class="bbcode_tag" rel="tag">punk</a>/<a href="http://www.last.fm/tag/melodic%20hardcore" class="bbcode_tag" rel="tag">melodic hardcore</a> band from Chicago, Illinois. Formed in 1999, and originally performing under the name Transistor Revolt, they released a self-produced demo entitled Transistor Revolt in 2000, a year before signing with <a href="http://www.last.fm/label/Fat+Wreck+Chords" class="bbcode_label">Fat Wreck Chords</a> to release their first two albums, The Unraveling in 2001, and Revolutions Per Minute in 2003. They later switched to Dreamworks Records and recorded their album Siren Song of the Counter Culture.
+
+        <a href="http://www.last.fm/music/Rise+Against">Read more about Rise Against on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Chicago, Illinois</placeformed>                        <yearformed>1999</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>1999</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * The Offspring (http://www.last.fm/music/Rise+Against)
+ * punk rock (http://www.last.fm/music/Sum+41)
+ * punk (http://www.last.fm/music/Billy+Talent)
+ * melodic hardcore (http://www.last.fm/music/Breaking+Benjamin)
+ * hardcore (http://www.last.fm/music/Anti-Flag)
+ * rock (http://www.last.fm/music/The+Offspring)
+
+http://www.last.fm/music/Rise+Against
