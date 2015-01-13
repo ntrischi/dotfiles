@@ -1,0 +1,24 @@
+set my_suser = ntrischi@stevens.edu
+
+## Receive options.
+set imap_user=$my_suser
+set imap_pass=$my_spass
+set folder = imaps://$my_suser@nexus.stevens.edu
+set spoolfile = +INBOX
+set postponed = +Drafts
+set record = +Sent
+set ssl_force_tls = yes
+
+## Send options.
+set smtp_url=smtps://$my_suser@nexus.stevens.edu
+set smtp_pass=$my_spass
+set realname='Neal Trischitta'
+set from=$my_suser
+set hostname="nexus.stevens.edu"
+set signature=~/.mutt/sigs/stevens.sig
+
+# Connection options
+#set ssl_force_tls = yes
+
+## Hook -- IMPORTANT!
+account-hook $folder "set imap_user=$my_suser imap_pass=$my_spass"
